@@ -1,9 +1,9 @@
 # Chatapp
-# follow steps 
-# step 1: cd testapp
-# step 2: npm start (start react server or run the app)
-# step 3: now open server directory in bash terminal -(cd server)
-# step 4: now start server - nodemon .
+follow steps 
+step 1: cd testapp
+step 2: npm start (start react server or run the app)
+step 3: now open server directory in bash terminal -(cd server)
+step 4: now start server - nodemon .
 
 note : 
 if app not work go to inside component directory which is inside testapp directory and open
